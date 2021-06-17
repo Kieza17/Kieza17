@@ -22,8 +22,8 @@ const keja = () => {
     medsos:{
         Whatsapp: "https://api.whatsapp.com/send?phone=6285601459079&text=Hallo+Keja",
         Instagram: "https://www.instagram.com/_calyza",
-        Telegram: "https://t.me/Kieza17"
-        Youtube: "https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA"
+        Telegram: "https://t.me/Kieza17",
+        Youtube: "https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA",
         Website: "https://kieza17.github.io/"
     },
     description: "I love coding, I aspire to be a professor. Hope all come true. Aamiin.."
