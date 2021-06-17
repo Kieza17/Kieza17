@@ -1,4 +1,4 @@
-[![Header](https://github.com/Kieza17/Kieza17/@Kieza17.mp4 "Profile Me")](https://kieza17.github.io/)
+https://github.com/Kieza17/Kieza17/@Kieza17.mp4
 
 # Hallo semuanya! <img src="wave.gif" width="30px">
 
