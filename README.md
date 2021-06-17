@@ -9,16 +9,24 @@ Hai semua perkenalkan nama saya `Calya Kieza Atafadila` biasa dipanggil `Keja`. 
 
 ```js
 const keja = () => {
-  let data = {
-    name: "Kieza17",
-    age: "15 Years",
-    project: "Menggabut",
-    location: "Indonesia",
-    medsos: {
-      instagram: "@_calyza",
-      telegram: "Kieza17",
-      youtube: "Kieza17"
-    }
+  return {
+    name: "Kieza17" | "Keja" | "Calya Kieza",
+    about_me: ["Front end Web Development", "Back end Web Development", "Rebahan Only", "Game Only", "Coding Only"],
+    experience: {
+        front_end: ["Html", "Css", "Javascript", "Responsive Mobile"],
+        back_end: ["NodeJS", "PHP", "ExpressJS"],
+        rebahan: ["Rumah"],
+        game: ["Mobile Legends"],
+        coding: ["All Only"]
+    },
+    medsos:{
+        Whatsapp: "https://api.whatsapp.com/send?phone=6285601459079&text=Hallo+Keja",
+        Instagram: "https://www.instagram.com/_calyza",
+        Telegram: "https://t.me/Kieza17"
+        Youtube: "https://www.youtube.com/channel/UC_WV7gCRT0oaEDrcGxiyjGA"
+        Website: "https://kieza17.github.io/"
+    },
+    description: "I love coding, I aspire to be a professor. Hope all come true. Aamiin.."
   }
 }
 ```
