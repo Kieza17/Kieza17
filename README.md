@@ -1,4 +1,5 @@
-https://github.com/Kieza17/Kieza17/@Kieza17.mp4
+
+[![@Kieza17](https://github.com/Kieza17/Kieza17/@Kieza17.mp4)](https://kieza17.github.io/)
 
 # Hallo semuanya! <img src="wave.gif" width="30px">
 
