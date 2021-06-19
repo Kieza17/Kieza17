@@ -43,8 +43,8 @@ const keja = () => {
 <a href="https://github.com/Kieza17/spam-wa-console">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieza17&repo=spam-wa-console&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Kieza17/spam-wa-console">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieza17&repo=spam-wa-console&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Kieza17/kalkulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieza17&repo=kalkulator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Kieza17/link-wa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieza17&repo=link-wa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
