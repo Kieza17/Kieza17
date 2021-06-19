@@ -51,4 +51,4 @@ const keja = () => {
 </a>
 <a href="https://github.com/Kieza17/link-wa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieza17&repo=link-wa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> 
