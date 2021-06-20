@@ -5,7 +5,7 @@
 
 Hai semua perkenalkan nama saya `Calya Kieza Atafadila` biasa dipanggil `Keja`. Banyak yang mengenal saya dengan nama `Kieza17`. Saya baru berumur `15 Tahun`, Hobi saya adalah : `Coding, Rebahan, Game, Makan, Tidur`. Saya bisa ngoding sejak kelas `6 SD`. Mungkin kalian baru tau kalau saya bisa ngoding. Sekian `Terimakasih!~`
 
-https://camo.githubusercontent.com/edc9278d261477988477875d746653d6969a3a2cc44147e9406427d11aebde51/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d5a6869727272
+<img src="https://camo.githubusercontent.com/edc9278d261477988477875d746653d6969a3a2cc44147e9406427d11aebde51/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d5a6869727272">
 
 ## @Kieza17 ~ Codingers
 
